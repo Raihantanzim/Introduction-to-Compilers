@@ -1,1 +1,2 @@
 # Introduction-to-Compilers
+Introduction to Compilers provides an in-depth understanding of the fundamental principles and techniques involved in the design and implementation of compilers. It covers key topics such as lexical analysis, syntax analysis, semantic analysis, code generation, and optimization. This knowledge is essential for translating high-level programming languages into efficient machine code, enabling the execution of software on diverse platforms.
